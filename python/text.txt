@@ -1,0 +1,13 @@
+Using Classes and Objects Concepts in Python
+String Manipulation
+        1. Accept 2 Strings
+        2. Find Length
+        3. Concatenate Strings
+        4. Accept a Character and find if it exists in 1st string
+        5. Accept a character and find how many times it occurs in 2nd string
+        6. Extract Substring ( substr(string,start_pos,no_of_char))
+        7. Display Largest String amongst 2 strings
+        8. Convert Uppercase
+        9. Convert Lowercase
+       10. Reverse both Strings and Concatenate
+       
